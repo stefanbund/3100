@@ -7,7 +7,8 @@ Reading: Chapters 1 and 9\
 Video collection
 1. Introduction, and syllabus https://youtu.be/fXTu8zwZ7eY
 2. Part 1: historical foundations for information systems, https://youtu.be/hbOr3lQRGqI
-3. Part 2: rationale for studying the discipline, and practical overview, https://youtu.be/EYX8_OtsIjQ
+3. Part 2: rationale for studying the discipline, and practical overview, https://youtu.be/EYX8_OtsIjQ \
+team formation exercise: https://goo.gl/forms/1u52tdzoZbGwju3y2
 
 
 
