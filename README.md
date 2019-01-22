@@ -3,7 +3,7 @@ Management Information Systems at Cal Poly Pomona
 introduction to business information systems, CIS 3100
 
 ## Module 1
-Reading: Chapters 1 and 9
+Reading: Chapters 1 and 9\
 Video collection
 1. Introduction, and syllabus https://youtu.be/fXTu8zwZ7eY
 2. Part 1: historical foundations for information systems, https://youtu.be/hbOr3lQRGqI
