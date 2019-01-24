@@ -8,7 +8,10 @@ Video collection
 1. Introduction, and syllabus https://youtu.be/fXTu8zwZ7eY
 2. Part 1: historical foundations for information systems, https://youtu.be/hbOr3lQRGqI
 3. Part 2: rationale for studying the discipline, and practical overview, https://youtu.be/EYX8_OtsIjQ \
-team formation exercise: https://goo.gl/forms/1u52tdzoZbGwju3y2 \
+\
+#### team formation exercise:
+4 pm session: https://goo.gl/forms/1DwWgSfWbqDIQI8d2  \
+5:30 pm session:  https://goo.gl/forms/RR70vN4KRum0Ikze2  \
 how to form teams using an excel filter https://www.useloom.com/share/7935a031f49a4c2ba423c016c1cd45bc \
 Please find the spreadsheet on blackboard, with instructions in the announcement in your email
 
