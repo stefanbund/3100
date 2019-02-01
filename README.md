@@ -16,3 +16,7 @@ how to form teams using an excel filter https://www.useloom.com/share/7935a031f4
 Please find the spreadsheet on blackboard, with instructions in the announcement in your email
 
 PESTLE, Porter's 5 Forces and SWOT how-to https://www.useloom.com/share/ea7e45d482d9425488119ca0c08f11cf \
+#### Census Data Tools
+1. Economic Census, Industry Snapshots, https://www.census.gov/econ/snapshots/?#
+2. Business Dynamics Statistics, https://www.census.gov/ces/dataproducts/bds/?#
+
