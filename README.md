@@ -20,3 +20,6 @@ PESTLE, Porter's 5 Forces and SWOT how-to https://www.useloom.com/share/ea7e45d4
 1. Economic Census, Industry Snapshots, https://www.census.gov/econ/snapshots/?#
 2. Business Dynamics Statistics, https://www.census.gov/ces/dataproducts/bds/?#
 
+#### AMA help
+example here http://research.wou.edu/ld.php?content_id=24511431
+
