@@ -7,8 +7,7 @@ Reading: Chapter 1\
 Video collection
 1. Introduction, and syllabus https://youtu.be/fXTu8zwZ7eY
 2. Part 1: historical foundations for information systems, https://youtu.be/hbOr3lQRGqI
-3. Part 2: rationale for studying the discipline, and practical overview, https://youtu.be/EYX8_OtsIjQ \
-
+ 
 #### team formation exercise:
 4 pm session: https://goo.gl/forms/1DwWgSfWbqDIQI8d2  \
 5:30 pm session:  https://goo.gl/forms/RR70vN4KRum0Ikze2  \
@@ -23,3 +22,5 @@ PESTLE, Porter's 5 Forces and SWOT how-to https://www.useloom.com/share/ea7e45d4
 #### AMA help
 example here http://research.wou.edu/ld.php?content_id=24511431
 
+## Module 2
+video lecture resources: https://youtu.be/EYX8_OtsIjQ \
