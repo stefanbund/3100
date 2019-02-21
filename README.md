@@ -24,3 +24,7 @@ example here http://research.wou.edu/ld.php?content_id=24511431
 
 ## Module 2
 video lecture resources: https://youtu.be/EYX8_OtsIjQ \
+
+## Module 3
+1. video part 1, https://www.useloom.com/share/1708381a300a4e0e987523e92a8efa93
+
