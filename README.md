@@ -27,4 +27,5 @@ video lecture resources: https://youtu.be/EYX8_OtsIjQ \
 
 ## Module 3
 1. video part 1, https://www.useloom.com/share/1708381a300a4e0e987523e92a8efa93
+2. census data tools, located by industry at https://www.census.gov/econ/snapshots/?#
 
