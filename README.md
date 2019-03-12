@@ -32,4 +32,5 @@ video lecture resources: https://youtu.be/EYX8_OtsIjQ \
 ## Module 4
 1. https://www.useloom.com/share/af7bc74d60af4ae1a1873991b0928916
 2. Introduction to Access, and table design, https://www.useloom.com/share/430eb3f4f3f040dbb9224431600f4e9a
+3. Business Process Modeling Notation, BPMN, https://www.useloom.com/share/42b446527bf44f66a51a4b84a2e53b9a
 
