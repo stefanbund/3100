@@ -31,4 +31,5 @@ video lecture resources: https://youtu.be/EYX8_OtsIjQ \
 
 ## Module 4
 1. https://www.useloom.com/share/af7bc74d60af4ae1a1873991b0928916
+2. Introduction to Access, and table design, https://www.useloom.com/share/430eb3f4f3f040dbb9224431600f4e9a
 
