@@ -33,4 +33,6 @@ video lecture resources: https://youtu.be/EYX8_OtsIjQ \
 1. https://www.useloom.com/share/af7bc74d60af4ae1a1873991b0928916
 2. Introduction to Access, and table design, https://www.useloom.com/share/430eb3f4f3f040dbb9224431600f4e9a
 3. Business Process Modeling Notation, BPMN, https://www.useloom.com/share/42b446527bf44f66a51a4b84a2e53b9a
+4. Access Demonstration, https://www.useloom.com/share/f157d1b34d7348afacea1f52800d4a0e
+5. UI design in draw.io, https://www.useloom.com/share/ca3e3ac1e5ea410da7af0b88b7e4de69
 
