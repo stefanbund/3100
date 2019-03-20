@@ -37,3 +37,6 @@ video lecture resources: https://youtu.be/EYX8_OtsIjQ \
 5. UI design in draw.io, https://www.useloom.com/share/ca3e3ac1e5ea410da7af0b88b7e4de69
 please see module 4 sample above
 
+## Module 5
+1. lecture on collaboration and corporate strategy, part 1 https://www.useloom.com/share/0b2ee383e0e94833a2315b40857e12ce
+
