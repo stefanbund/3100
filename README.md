@@ -39,4 +39,6 @@ please see module 4 sample above
 
 ## Module 5
 1. lecture on collaboration and corporate strategy, part 1 https://www.useloom.com/share/0b2ee383e0e94833a2315b40857e12ce
+2. database design and the Entity Relationship Design (ERD), https://www.useloom.com/share/f9b7f812fab84b45a12c5bdac5f8756d
+
 
