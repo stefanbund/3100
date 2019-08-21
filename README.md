@@ -2,6 +2,12 @@
 Management Information Systems at Cal Poly Pomona
 introduction to business information systems, CIS 3100
 
+link to syllabus
+
+## opening night questionnaire:
+4pm session: https://forms.gle/nsxyxwYSvFejZ2R68
+7pm session: https://forms.gle/rTsaq3k2N7i8M5us8
+
 ## Module 1
 Reading: Chapter 1\
 Video collection
